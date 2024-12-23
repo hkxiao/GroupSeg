@@ -1,0 +1,1 @@
+python3 test.py cornet --gpus=2 --weight=../pretrained/cornet_rgb_duts_tr.pth  --vals=ce --save --data_path=../data --datasets=CoCA --save_path=../data
